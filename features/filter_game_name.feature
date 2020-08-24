@@ -32,3 +32,4 @@ Feature: Search games by name
       When the user search games by name
       Then 0 games will match
       And the following message is displayed: No game with the specified name was found.
+
